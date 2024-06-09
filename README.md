@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## Dilshan-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`Dilshan-MD BOT OWNERS,`** 👑
 
 
    <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
